@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community 
+langchain-experimental 
+chromadb
+transformers
+streamlit_chat
+langchain_groq
+langchain_cohere
+langchain_core
+tiktoken 
+python-dotenv
+
+

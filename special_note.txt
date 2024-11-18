@@ -1,0 +1,13 @@
+Speacial NOTE regarding the chromadb current version:
+
+ModuleNotFoundError: No module named 'pypika.dialects'
+steps:
+pip install numpy<2
+pip uninstall chromadb pypika
+pip install chromadb
+pip install pypika==0.48.0
+
+
+ValueError: Could not connect to tenant default_tenant. Are you sure it exists?
+
+steps:
